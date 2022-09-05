@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>close-cart-svg</title>
+	<style>
+		.s0 { opacity: .1;fill: none;stroke: #000000 } 
+		.s1 { fill: none;stroke: #1f2020;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.4 } 
+	</style>
+	<path id="Layer" class="s0" d="m24 47.5c-13 0-23.5-10.5-23.5-23.5 0-13 10.5-23.5 23.5-23.5 13 0 23.5 10.5 23.5 23.5 0 13-10.5 23.5-23.5 23.5z"/>
+	<path id="Layer" class="s1" d="m30 18l-12 12"/>
+	<path id="Layer" class="s1" d="m18 18l12 12"/>
+</svg>
